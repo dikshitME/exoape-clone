@@ -140,3 +140,29 @@ footer()
 document.querySelector("#mail").addEventListener("click",function(event){
     window.location.href = "mailto:dikshits207@gmail.com"
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// <h1> &nbsp; Selemen.<br>Liqium</h1>
+//                     <div id="ig2" data-scroll data-scroll-speed="1">
+//                        <a href="https://dikshitme.github.io/Selemen-Clone/"> <video id="gif2" autoplay muted loop src="./project 1.mp4"></video></a>
+//                         <img id="back" data-scroll data-scroll-speed="-1" src="project-3.png" alt="">
+//                     </div>
